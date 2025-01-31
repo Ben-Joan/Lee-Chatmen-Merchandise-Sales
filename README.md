@@ -1,10 +1,49 @@
 # Lee-Chatmen-Merchandise-Sales
 
 ## Introduction and Situation 📝🔎
-
-## Strategy Implemented 🎯
+Lee Chatmen is a popular influencer from the United States with over 7 million TikTok followers. He became famous for his entertaining videos, where he plays popular songs on miniature guitars. In 2023, Lee launched his own line of merchandise. This analysis looks at how his merchandise sales are going and what we can learn from the data.
 
 ## Business Questions ⚖️
+
+**To gain meaningful insights into our store's performance, we will explore the following key questions:**  
+
+1. What are the overall sales trends?  
+2. Which product categories perform the best?  
+3. What are the most and least popular products?  
+4. How does location affect sales performance?  
+5. What impact does international shipping have on sales?  
+6. What is the demographic profile of buyers?  
+7. How do ratings and reviews correlate with sales?  
+8. What are the trends in shipping charges?  
+9. How do discounts or promotional pricing influence purchasing behavior?  
+10. Are there any patterns in repeat purchases?  
+
+**By answering these questions, we can develop **data-driven strategies** to optimize sales, improve customer experience, and enhance overall business performance. 🚀**
+
+## Strategy Implemented 🎯 
+
+To effectively analyze Lee Chatmen's merchandise sales and provide actionable insights, I followed a systematic approach:
+
+#### 1. **Exploratory Data Analysis (EDA)**  
+   The first step was to explore the available data to understand its structure and contents. Through EDA, I was able to answer the key business questions. 
+
+#### 2. **Data Transcription and Interpretation**  
+   After exploring the data, I transcribed and organized it in a manner that allows Lee Chatmen to easily understand the story it tells. The goal was to present the data in a clear, easy-to-follow format that highlights the critical aspects of his merchandise sales, such as product performance, customer demographics, and sales trends.
+
+#### 3. **Generating Insights**  
+   Based on the analysis, I identified key insights that can guide future business decisions, including:  
+   - Identifying high-performing products  
+   - Recognizing seasonal sales trends  
+   - Understanding which customer segments drive the most sales  
+   These insights helped to better understand where the business stands and where improvements can be made.
+
+#### 4. **Dashboard Development**  
+   To visualize these insights effectively, I built a dynamic dashboard. The dashboard allows Lee Chatmen to easily monitor the performance of his merchandise in real time, track key metrics, and make data-driven decisions quickly.
+
+#### 5. **Suggestions for Improvement**  
+   Finally, based on the data analysis, I provided suggestions to improve merchandise sales, including strategies for product promotion, customer engagement, and inventory management.
+
+This strategy enabled me to transform raw data into valuable insights that help drive informed business decisions and enhance Lee Chatmen's merchandise sales strategy.  
 
 
 ## Sales Performance Insights 💡
