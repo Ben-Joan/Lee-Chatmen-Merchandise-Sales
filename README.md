@@ -3,6 +3,7 @@
 ## Introduction and Situation 📝🔎
 Lee Chatmen is a popular influencer from the United States with over 7 million TikTok followers. He became famous for his entertaining videos, where he plays popular songs on miniature guitars. In 2023, Lee launched his own line of merchandise. This analysis looks at how his merchandise sales are going and what we can learn from the data.
 
+
 ## Business Questions ⚖️
 
 **To gain meaningful insights into our store's performance, we will explore the following key questions:**  
@@ -19,6 +20,7 @@ Lee Chatmen is a popular influencer from the United States with over 7 million T
 10. Are there any patterns in repeat purchases?  
 
 **By answering these questions, we can develop **data-driven strategies** to optimize sales, improve customer experience, and enhance overall business performance. 🚀**
+
 
 ## Strategy Implemented 🎯 
 
@@ -44,6 +46,16 @@ To effectively analyze Lee Chatmen's merchandise sales and provide actionable in
    Finally, based on the data analysis, I provided suggestions to improve merchandise sales, including strategies for product promotion, customer engagement, and inventory management.
 
 This strategy enabled me to transform raw data into valuable insights that help drive informed business decisions and enhance Lee Chatmen's merchandise sales strategy.  
+
+
+## Dashboard 📈
+Performance Summary
+![image](https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales/blob/main/Lee%20Chatmen%20Merchandise%20Sales_page-0001.jpg)
+
+Demography and Feedback
+![image](https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales/blob/main/Lee%20Chatmen%20Merchandise%20Sales_page-0002.jpg)
+
+Check out the power bi [pbix file](https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales/blob/main/Lee%20Chatmen%20Merchandise%20Sales.pbix) and [online dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmM2YmZmZDQtZDJjYy00OTc3LWFjYzItNWM0ZjJmNzUxY2ZkIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
 
 
 ## Sales Performance Insights 💡
