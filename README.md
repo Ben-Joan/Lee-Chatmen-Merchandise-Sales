@@ -55,7 +55,7 @@ Demography and Feedback
 Check out the power bi [pbix file](https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales/blob/main/Lee%20Chatmen%20Merchandise%20Sales.pbix) and [online dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmM2YmZmZDQtZDJjYy00OTc3LWFjYzItNWM0ZjJmNzUxY2ZkIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
 
 
-## Sales Performance Insights 💡
+## Insights 💡
 
 ### 📊 Overall Sales Performance  
 Our store has generated **$856,462 in total sales** from **7,394 orders**, with **13% of sales attributed to shipping charges**. Sales and order volumes show a **steady growth trend**, with **May and July** as the peak months.  
