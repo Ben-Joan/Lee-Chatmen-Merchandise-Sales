@@ -1,12 +1,12 @@
 # Lee Chatmen Merchandise-Sales
 
-## Introduction and Situation 📝
+## Introduction
 Lee Chatmen is a popular influencer from the United States with over 7 million TikTok followers. He became famous for his entertaining videos, where he plays popular songs on miniature guitars. In 2023, Lee launched his own line of merchandise. This analysis looks at how his merchandise sales are going and what we can learn from the data.
 
 
 ## Business Questions ⚖️
 
-**To gain meaningful insights into our store's performance, we will explore the following key questions:**  
+**To gain meaningful insights into the store's performance,the following key questions was explored:**  
 
 1. What are the overall sales trends?  
 2. Which product categories perform the best?  
@@ -16,21 +16,21 @@ Lee Chatmen is a popular influencer from the United States with over 7 million T
 6. What is the demographic profile of buyers?  
 7. How do ratings and reviews correlate with sales?  
 8. What are the trends in shipping charges?  
-9. How do discounts or promotional pricing influence purchasing behavior?  
+9. How do discounts or promotional pricing influence purchasing behavior? 
 10. Are there any patterns in repeat purchases?  
 
-**By answering these questions, we can develop **data-driven strategies** to optimize sales, improve customer experience, and enhance overall business performance. 🚀**
+**By answering these questions, **data-driven strategies** to optimize sales, improve customer experience, and enhance overall business performance was identified. 🚀**
 
 
 ## Strategy Implemented 🎯 
 
-To effectively analyze Lee Chatmen's merchandise sales and provide actionable insights, I followed a systematic approach:
+To effectively analyze Lee Chatmen's merchandise sales and provide actionable insights that will drive business growth, I followed a systematic approach:
 
-#### 1. **Exploratory Data Analysis (EDA)**  
-   The first step was to clean the data ensuring data quality, then explore the available data to understand its structure and contents. Through EDA, I was able to answer the key business questions. 
+#### 1. **Data Cleaning **  
+   The first step was to clean the data ensuring data quality, then explore the available data to understand its structure and contents. 
 
-#### 2. **Generating Insights**  
-   Based on the analysis, I identified key insights that can guide future business decisions, including:  
+#### 2. **Exploratory Data Analysis**  
+   Through eclxploratory analysis, I identified key insights that can guide future business decisions, including:  
    - Identifying high-performing products  
    - Recognizing seasonal sales trends  
    - Understanding which customer segments drive the most sales  
@@ -42,8 +42,6 @@ To effectively analyze Lee Chatmen's merchandise sales and provide actionable in
 #### 4. **Suggestions for Improvement**  
    Finally, based on the data analysis, I provided suggestions to improve merchandise sales, including strategies for product promotion, customer engagement, and inventory management.
 
-This strategy enabled me to transform raw data into valuable insights that help drive informed business decisions and enhance Lee Chatmen's merchandise sales strategy.  
-
 
 ## Dashboard 📈
 Performance Summary
@@ -52,13 +50,13 @@ Performance Summary
 Demography and Feedback
 ![image](https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales/blob/main/Lee%20Chatmen%20Merchandise%20Sales_page-0002.jpg)
 
-Check out the power bi [pbix file](https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales/blob/main/Lee%20Chatmen%20Merchandise%20Sales.pbix) and [online dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmM2YmZmZDQtZDJjYy00OTc3LWFjYzItNWM0ZjJmNzUxY2ZkIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
+Check out the power bi [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmM2YmZmZDQtZDJjYy00OTc3LWFjYzItNWM0ZjJmNzUxY2ZkIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
 
 
 ## Insights 💡
 
 ### 📊 Overall Sales Performance  
-Our store has generated **$856,462 in total sales** from **7,394 orders**, with **13% of sales attributed to shipping charges**. Sales and order volumes show a **steady growth trend**, with **May and July** as the peak months.  
+The store has generated **$856,462 in total sales** from **7,394 orders**, with **13% of sales attributed to shipping charges**. Sales and order volumes show a **steady growth trend**, with **May and July** as the peak months.  
 
 - **Domestic transactions**: 55% of sales, 70% of orders  
 - **International transactions**: 45% of sales, 30% of orders  
