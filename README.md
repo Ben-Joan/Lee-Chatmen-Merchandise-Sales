@@ -26,7 +26,7 @@ Lee Chatmen is a popular influencer from the United States with over 7 million T
 
 To effectively analyze Lee Chatmen's merchandise sales and provide actionable insights that will drive business growth, I followed a systematic approach:
 
-#### 1. **Data Cleaning **  
+#### 1. **Data Cleaning**  
    The first step was to clean the data ensuring data quality, then explore the available data to understand its structure and contents. 
 
 #### 2. **Exploratory Data Analysis**  
