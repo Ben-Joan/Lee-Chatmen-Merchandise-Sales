@@ -22,24 +22,15 @@ By answering these questions, **data-driven strategies** to optimize sales, impr
 
 ## Strategy Implemented 🎯 
 
-To effectively analyze Lee Chatmen's merchandise sales and provide actionable insights that will drive business growth, I followed a systematic approach:
+To effectively analyze Lee Chatmen's merchandise sales and provide actionable insights that will drive business growth, I leveraged on the skills below:
 
-#### 1. **Data Cleaning**  
-   The first step was to clean the data ensuring data quality, then explore the available data to understand its structure and contents. 
+   - **Data Cleaning**: Using Power Query to clean and transform the data, ensuring data quality and consistency before analysis. 
+   - **Data Visualization**: Creating charts and graphs for exploring the data, clear visualization and proper communication of identified insights.
+   - **Dax Measures**: Using Data Analysis Expression (DAX) to create measures for the key metrics e.g "Total Sales", "Total Orders", etc and new column e.g "Review Category" for deeper and structured information.
+   - **Sentiment Analysis**: Using World Cloud visual to identify most common words and customer feedback on both products and services quality.
+   - **Dashboard Development**: Building a dynamic dashboard using Power BI, which allows Lee Chatmen to monitor the performance of his merchandise by tracking key metrics and trends.
 
-#### 2. **Exploratory Data Analysis**  
-   Through eclxploratory analysis, I identified key insights that can guide future business decisions, including:  
-   - Identifying high-performing products  
-   - Recognizing seasonal sales trends  
-   - Understanding which customer segments drive the most sales  
-   These insights helped to better understand where the business stands and where improvements can be made.
-
-#### 3. **Dashboard Development**  
-   To visualize these insights effectively, I built a dynamic dashboard. The dashboard allows Lee Chatmen to easily monitor the performance of his merchandise in real time, track key metrics, and make data-driven decisions quickly.
-
-#### 4. **Suggestions for Improvement**  
-   Finally, based on the data analysis, I provided suggestions to improve merchandise sales, including strategies for product promotion, customer engagement, and inventory management.
-
+The dataset used was provided by **Onyx Data**.
 
 ## Dashboard 📈
 Performance Summary
