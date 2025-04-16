@@ -42,7 +42,7 @@ The Dashboard contains three pages
 
    - Review or Feedback Analysis
      
-Check out the power bi [dashboard](https://app.powerbi.com/viewr=eyJrIjoiZmM2YmZmZDQtZDJjYy00OTc3LWFjYzItNWM0ZjJmNzUxY2ZkIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
+Check out the power bi [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmM2YmZmZDQtZDJjYy00OTc3LWFjYzItNWM0ZjJmNzUxY2ZkIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
 
 
 ## Insights 💡
@@ -74,7 +74,7 @@ The store has generated **$856,462 in total sales** from **7,394 orders**, with 
 - **Highest-rated aspects**: **Product delivery & design**  
 - **Most common complaints**: **Customer experience**, indicating room for improvement  
 
-## 🔑 Key Takeaways  
+## Key Takeaway 🔑 
 The business is experiencing **steady growth** with strong **domestic sales** and **promising international demand**. While **product delivery and design are well-received**, **customer experience needs improvement** to enhance satisfaction and retention. Opportunities exist to refine **marketing, pricing strategies, and customer service** to sustain long-term success.  
 
 
