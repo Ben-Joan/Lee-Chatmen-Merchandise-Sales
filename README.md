@@ -76,14 +76,14 @@ The business is experiencing **steady growth** with strong **domestic sales** an
 
 
 ## Recommendations 🛠️
-- **Inventory Management for Peak Seasons** 
-  Sales and orders peaked in **May** and **July**, suggesting a possible seasonal trend. **To avoid stockouts and lost sales**, ensure **adequate inventory** is available during these months to meet customers demand.
+   1. **Inventory Management for Peak Seasons**: 
+Sales and orders peaked in **May** and **July**, suggesting a possible seasonal trend. **To avoid stockouts and lost sales**, ensure **adequate inventory** is available during these months to meet customers demand.
 
-- **Increasing Average Order Value (AOV)**
-  With an overall **AOV of $116 ($172 for international orders** — largely due to shipping charges and **$92 for domestic orders**), offering **bundle discounts or mix-and-match promotions** can encourage **higher-value purchases**. This strategy can also attract more international buyers, boosting global demand.
+   2. **Increasing Average Order Value (AOV)**: 
+With an overall **AOV of $116 ($172 for international orders** — largely due to shipping charges and **$92 for domestic orders**), offering **bundle discounts or mix-and-match promotions** can encourage **higher-value purchases**. This strategy can also attract more international buyers, boosting global demand.
 
-- **Targeted Marketing & Customer Acquisition**
-  The **18-22 age group drives the most sales and orders**, making them an ideal target for personalized marketing campaigns to increase repeat purchases. Additionally, **expanding outreach to female customers** is recommended. If products cater mostly to men, marketing efforts should **position products as ideal gifts** for male family members, friends, or partners, encouraging referrals and purchases from female shoppers.
+   3. **Targeted Marketing & Customer Acquisition**: 
+The **18-22 age group drives the most sales and orders**, making them an ideal target for personalized marketing campaigns to increase repeat purchases. Additionally, **expanding outreach to female customers** is recommended. If products cater mostly to men, marketing efforts should **position products as ideal gifts** for male family members, friends, or partners, encouraging referrals and purchases from female shoppers.
 
-- **Enhancing Customer Experience & Logistics**
-  While **product delivery received the highest positive reviews**, it also accounted for **7% of negative feedback**, suggesting the need for **improved packaging and careful handling to minimize logistics-related complaints**. Additionally, **12% of neutral and 8% of negative reviews** were related to **customer experience**, indicating that while product quality and design are well-received, **enhancing service quality and overall user experience** is crucial for long-term customer satisfaction and retention.
+   4. **Enhancing Customer Experience & Logistics**: 
+While **product delivery received the highest positive reviews**, it also accounted for **7% of negative feedback**, suggesting the need for **improved packaging and careful handling to minimize logistics-related complaints**. Additionally, **12% of neutral and 8% of negative reviews** were related to **customer experience**, indicating that while product quality and design are well-received, **enhancing service quality and overall user experience** is crucial for long-term customer satisfaction and retention.
