@@ -1,26 +1,23 @@
 # Lee Chatmen Merchandise-Sales
 ![Merchandise Sales](https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales/blob/main/fashionable-clothes.jpg)
 
+
 ## Introduction
-Lee Chatmen is a popular influencer from the United States with over 7 million TikTok followers. He became famous for his entertaining videos, where he plays popular songs on miniature guitars. In 2023, Lee launched his own line of merchandise. This analysis looks at how his merchandise sales are going and what we can learn from the data.
+Lee Chatmen is a popular influencer from the United States with over 7 million TikTok followers. He became famous for his entertaining videos, where he plays popular songs on miniature guitars. In 2023, Lee launched his own line of merchandise. 
+
+This analysis leveraged on **Power BI** to look at how his merchandise sales is performing, uncovering pattern and enabling data-driven decision making for the store.
 
 
-## Business Questions ⚖️
+## Problem Statement
+Lee Chatmen aims to gain meaningful insights into the store's performance, to promote long term growth and expansion of the business. The following key questions was explored: 
 
-**To gain meaningful insights into the store's performance,the following key questions was explored:**  
+1. What are the overall sales and shipping charges trends?  
+2. Which products and categories perform the best?   
+3. How does location affect sales performance?   
+4. What is the demographic profile of buyers?  
+5. How do ratings and reviews correlate with sales?     
 
-1. What are the overall sales trends?  
-2. Which product categories perform the best?  
-3. What are the most and least popular products?  
-4. How does location affect sales performance?  
-5. What impact does international shipping have on sales?  
-6. What is the demographic profile of buyers?  
-7. How do ratings and reviews correlate with sales?  
-8. What are the trends in shipping charges?  
-9. How do discounts or promotional pricing influence purchasing behavior? 
-10. Are there any patterns in repeat purchases?  
-
-**By answering these questions, **data-driven strategies** to optimize sales, improve customer experience, and enhance overall business performance was identified. 🚀**
+By answering these questions, **data-driven strategies** to optimize sales, improve customer experience, and enhance overall business performance will identified.
 
 
 ## Strategy Implemented 🎯 
