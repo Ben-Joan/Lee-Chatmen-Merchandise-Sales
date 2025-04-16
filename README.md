@@ -33,13 +33,16 @@ To effectively analyze Lee Chatmen's merchandise sales and provide actionable in
 The dataset used was provided by [**Onyx Data**](https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales/blob/main/Onyx%20Data%20-DataDNA%20Dataset%20Challenge%20-%20Merchandise%20Sales%20Dataset%20-%20January%202025.xlsx).
 
 ## Dashboard 📈
-Performance Summary
-![image](https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales/blob/main/Lee%20Chatmen%20Merchandise%20Sales_page-0001.jpg)
+The Dashboard contains three pages
+   - Performance Summary
+<!-- ![image](https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales/blob/main/Lee%20Chatmen%20Merchandise%20Sales_page-0001.jpg) -->
 
-Demography and Feedback
-![image](https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales/blob/main/Lee%20Chatmen%20Merchandise%20Sales_page-0002.jpg)
+   - Customer Demography 
+<!-- ![image](https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales/blob/main/Lee%20Chatmen%20Merchandise%20Sales_page-0002.jpg) -->
 
-Check out the power bi [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmM2YmZmZDQtZDJjYy00OTc3LWFjYzItNWM0ZjJmNzUxY2ZkIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
+   - Review or Feedback Analysis
+     
+Check out the power bi [dashboard](https://app.powerbi.com/viewr=eyJrIjoiZmM2YmZmZDQtZDJjYy00OTc3LWFjYzItNWM0ZjJmNzUxY2ZkIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
 
 
 ## Insights 💡
