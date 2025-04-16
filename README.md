@@ -52,6 +52,7 @@ The store has generated **$856,462 in total sales** from **7,394 orders**, with 
 
 - **Domestic transactions**: 55% of sales, 70% of orders  
 - **International transactions**: 45% of sales, 30% of orders
+
 Most sales are domestically generated, indicating that international demand has less impact on performance.
 
 #### Best & Worst Performing Products & Categories 
@@ -62,8 +63,7 @@ Most sales are domestically generated, indicating that international demand has 
 #### Customer Demographics  
 - **Customer Age Range**: 18-35 years  
 - **Gender Distribution**: **70% Male, 30% Female**  
-- **Top Age Groups**:  
-  - **18-22 & 27-32**: **28% each**, contributing the most sales  
+- **Top Age Groups**: **18-22** is the top customer group contributing **28%** of total sales. Age group **23-27 and 28-32** are next, this indicates that our major customers are young adults 
 - **Top Domestic Locations**:  **San Francisco** and  **Sacremento**, indicating strong demand
 - **Top International Locations**: **London and Manchester** ranks top in quantity of sales but **Sydney** is top in revenue, this can be attributed to higher shipping charges
 
