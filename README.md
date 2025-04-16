@@ -8,7 +8,7 @@ Lee Chatmen is a popular influencer from the United States with over 7 million T
 This analysis leveraged on **Power BI** to look at how his merchandise sales is performing, uncovering pattern and enabling data-driven decision making for the store.
 
 
-## Problem Statement
+## Problem Statement 🔎
 Lee Chatmen aims to gain meaningful insights into the store's performance, to promote long term growth and expansion of the business. The following key questions was explored: 
 
 1. What are the overall sales and shipping charges trends?  
