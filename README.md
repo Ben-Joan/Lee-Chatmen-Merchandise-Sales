@@ -51,19 +51,21 @@ Check out the power bi [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmM2Ym
 The store has generated **$856,462 in total sales** from **7,394 orders**, with **13% of sales attributed to shipping charges**. Sales and order volumes show a **steady growth trend**, with **May and July** as the peak months.  
 
 - **Domestic transactions**: 55% of sales, 70% of orders  
-- **International transactions**: 45% of sales, 30% of orders  
+- **International transactions**: 45% of sales, 30% of orders
+Most sales are domestically generated, indicating that international demand has less impact on performance.
 
-##### Best & Worst Performing Products  
-- **Top Product**: **BF1548** - **$190,646 in sales, 1,497 orders**, **AOV: $127**, **Avg. Price: $79**, **Avg. Rating: 3.5**  
-- **Lowest Performing Product**: **BF1555** - **$8,666 in sales, 133 orders**, **AOV: $65**, **Avg. Price: $35**, **Avg. Rating: 3.6**  
+#### Best & Worst Performing Products & Categories 
+- **Top Product**: **BF1548** - **$190,640 in sales 11% attributing to shipping charges, 1,497 orders**, **AOV: $127**, **Avg. Price: $79**, **Avg. Rating: 3.5** contributing **22%** of total sales  
+- **Lowest Performing Product**: **BF1555** - **$8,666 in sales 20% attributing to shipping charges, 133 orders**, **AOV: $65**, **Avg. Price: $35**, **Avg. Rating: 3.6**  contributing **1%** of total sales
+- **Clothing** category is the top performer in quantity **(6,097)** and orders **(3,701)** and contributes the most revenue **($637,201)**, followed by the **Ornaments** category
 
 #### Customer Demographics  
 - **Customer Age Range**: 18-35 years  
 - **Gender Distribution**: **70% Male, 30% Female**  
 - **Top Age Groups**:  
   - **18-22 & 27-32**: **28% each**, contributing the most sales  
-- **Top Sales Location**: **Sydney** (Driven by international shipping charges)  
-- **Top Order Locations**: **New Jersey & Portland**, indicating strong demand  
+- **Top Domestic Locations**:  **San Francisco** and  **Sacremento**, indicating strong demand
+- **Top International Locations**: **London and Manchester** ranks top in quantity of sales but **Sydney** is top in revenue, this can be attributed to higher shipping charges
 
 #### Reviews & Ratings  
 - **Average Rating**: **3.5 stars**  
