@@ -30,7 +30,7 @@ To effectively analyze Lee Chatmen's merchandise sales and provide actionable in
    - **Sentiment Analysis**: Using World Cloud visual to identify most common words and customer feedback on both products and services quality.
    - **Dashboard Development**: Building a dynamic dashboard using Power BI, which allows Lee Chatmen to monitor the performance of his merchandise by tracking key metrics and trends.
 
-The dataset used was provided by **Onyx Data**.
+The dataset used was provided by [**Onyx Data**](https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales/blob/main/Onyx%20Data%20-DataDNA%20Dataset%20Challenge%20-%20Merchandise%20Sales%20Dataset%20-%20January%202025.xlsx).
 
 ## Dashboard 📈
 Performance Summary
