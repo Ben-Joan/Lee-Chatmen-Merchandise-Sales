@@ -41,6 +41,8 @@ The Dashboard contains three pages
 <!-- ![image](https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales/blob/main/Lee%20Chatmen%20Merchandise%20Sales_page-0002.jpg) -->
 
    - Review or Feedback Analysis
+
+![image](https://github.com/Ben-Joan/Lee-Chatmen-Merchandise-Sales/blob/main/Performance.PNG)
      
 Check out the power bi [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmM2YmZmZDQtZDJjYy00OTc3LWFjYzItNWM0ZjJmNzUxY2ZkIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
 
